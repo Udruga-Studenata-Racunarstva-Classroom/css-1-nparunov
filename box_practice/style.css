@@ -42,14 +42,16 @@ html {
 }
 
 ul {
-  margin-left: inherit;
-  margin-right: inherit;
-  list-style: none;
+  padding: 0px;
+  margin-top: 0px;
+  list-style-type: none;
   font: 1.2em bolder;
+  font-family: sans-serif;
   border: solid #d6d8e1 10px;
 }
 
 li {
-  border: solid black 1px;
+  border: solid #d6d8e1 2px;
   padding: 10px;
+  background-color: white;
 }
