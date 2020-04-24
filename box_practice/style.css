@@ -40,3 +40,16 @@ html {
   border-radius: 4px;
   background: #fff;
 }
+
+ul {
+  margin-left: inherit;
+  margin-right: inherit;
+  list-style: none;
+  font: 1.2em bolder;
+  border: solid #d6d8e1 10px;
+}
+
+li {
+  border: solid black 1px;
+  padding: 10px;
+}
